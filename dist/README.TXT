@@ -1,3 +1,7 @@
+CHANGE THE NAME OF JAR "SistemaConceptualLauncher" TO "Launcher"
+TO RUN IT PROPERLY, ONCE RUN, THE LAUNCHER WILL START A DOWNLOAD
+TO INSTALL SistemaConceptual
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
